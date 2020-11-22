@@ -10,8 +10,11 @@ The new Chemistry Workspace has 3 rooms - laboratory, equipment room, and sittin
 
 According to the constraints given in the question,
 ● Laboratory: 10 <= x <= 15, 10 <= 25-y <= 18
+
 ● Sitting/Meeting room: length=25, 10 <= x <= 15
+
 ● Equipment Room: 10 <= 25-x <=15, 7 <= y <=15
+
 
 Particles Size (10 x 8) - where 10 is the number of particles and 8 is the number of columns containing
 binary digits to represent 2 integer numbers from 0 to 15 for x & y. (Could have increased the number of
@@ -35,6 +38,7 @@ rank.
 10. Repeat this process.
 
 Video Link: https://youtu.be/VeRFErNBmdE
+
 The video shared shows different Pareto Fronts or set of optimal solutions with increasing iterations in
 multi-objective optimization problems stands for a set of solutions that are non-dominated to each other
 but are superior to the rest of the solutions in the search space.
